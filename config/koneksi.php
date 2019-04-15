@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $username = "root";
-$password = "310801";
+$password = "";
 $database = "db_perpus_3.1";
 
 // Koneksi dan memilih database di server
