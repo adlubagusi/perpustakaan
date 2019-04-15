@@ -13,7 +13,7 @@ mysqli_select_db($db)or die("Database Not Found".mysql_error());
 */
 $host = "localhost";
 	$user = "root";
-	$pass = "310801";
+	$pass = "";
 	$name = "db_perpus_3.1";
 	 
 	$koneksidb = mysqli_connect($host, $user, $pass ,$name)or die("Not connected.");
